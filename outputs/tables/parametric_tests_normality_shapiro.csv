@@ -1,0 +1,6 @@
+test,variable,group,statistic,p_value,alpha,interpretation,normal_distribution
+Shapiro-Wilk,measurement,A,0.9809521765588045,0.15758887165840196,0.05,brak podstaw do odrzucenia H0,True
+Shapiro-Wilk,measurement,B,0.9879289382127052,0.5029823339062962,0.05,brak podstaw do odrzucenia H0,True
+Shapiro-Wilk,before,dependent,0.9809521765588045,0.15758887165840196,0.05,brak podstaw do odrzucenia H0,True
+Shapiro-Wilk,after,dependent,0.9933323313787369,0.9072767195361539,0.05,brak podstaw do odrzucenia H0,True
+Shapiro-Wilk,difference,dependent,0.987928938212706,0.5029823339063575,0.05,brak podstaw do odrzucenia H0,True

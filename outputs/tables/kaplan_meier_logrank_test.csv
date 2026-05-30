@@ -1,0 +1,2 @@
+test,grouping_variable,group_1,group_2,test_statistic,p_value,alpha,interpretation
+log-rank,ejection_fraction,niska frakcja wyrzutowa,wysoka frakcja wyrzutowa,9.469632731237125,0.002089011924165867,0.05,odrzucamy H0 - krzywe przeżycia różnią się istotnie statystycznie

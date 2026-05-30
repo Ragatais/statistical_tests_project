@@ -1,0 +1,3 @@
+group,n_patients,n_events,n_censored,event_rate_percent,median_follow_up_time,mean_follow_up_time
+niska frakcja wyrzutowa,182,73,109,40.10989010989011,117.0,130.7087912087912
+wysoka frakcja wyrzutowa,117,23,94,19.65811965811966,113.0,129.56410256410257
