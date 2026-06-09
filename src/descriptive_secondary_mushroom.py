@@ -93,6 +93,8 @@ def descriptive_statistics_for_feature(df, feature):
             "mode": get_mode(values),
             "variance": values.var(ddof=1),
             "std": values.std(ddof=1),
+            "skewness": values.skew(),
+            "kurtosis": values.kurtosis(),
             "Q1": q1,
             "Q2_median": q2,
             "Q3": q3,
